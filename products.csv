@@ -1,0 +1,92 @@
+Product_ID,Product_Name,Category,Unit_Price,Brand,Unit,Stock_Quantity,Launch_Date
+P001,Shirt,Fashion,937,DhakaMart,liter,82,2023-04-08
+P002,Shirt,Fashion,1921,SmartLiving,pcs,276,2023-03-28
+P003,Pant,Fashion,1791,HomeHub,pcs,273,2023-02-05
+P004,Pant,Fashion,817,StyleZone,liter,108,2023-06-07
+P005,Pant,Fashion,1945,DhakaMart,liter,204,2023-11-15
+P006,Pant,Fashion,1899,StyleZone,liter,175,2023-11-03
+P007,T-shirt,Fashion,1922,StyleZone,liter,171,2023-03-07
+P008,T-shirt,Fashion,1797,StyleZone,pair,291,2023-09-26
+P009,Jacket,Fashion,1798,DhakaMart,pcs,379,2023-06-24
+P010,Jacket,Fashion,1931,FreshEase,pcs,453,2023-03-11
+P011,Jacket,Fashion,1190,QuickStep,pair,281,2023-08-31
+P012,Kurta,Fashion,925,SmartLiving,liter,178,2023-12-27
+P013,Kurta,Fashion,1524,DhakaMart,liter,316,2023-11-14
+P014,Running Shoe,Footwear,1405,HomeHub,liter,415,2023-07-25
+P015,Running Shoe,Footwear,1988,StyleZone,pcs,320,2023-08-28
+P016,Sandal,Footwear,2030,Dropout Wear,pcs,68,2023-11-17
+P017,Sandal,Footwear,2108,StyleZone,pcs,107,2023-02-06
+P018,Sandal,Footwear,2077,HomeHub,pair,381,2023-11-10
+P019,Sandal,Footwear,1779,SmartLiving,pair,478,2023-06-05
+P020,Formal Shoe,Footwear,2493,DhakaMart,pcs,296,2023-01-30
+P021,Formal Shoe,Footwear,1483,HomeHub,kg,66,2023-12-11
+P022,Formal Shoe,Footwear,1488,SmartLiving,pcs,369,2023-05-09
+P023,Formal Shoe,Footwear,1913,DhakaMart,pack,386,2023-08-31
+P024,Sneaker,Footwear,2237,HomeHub,kg,422,2023-08-20
+P025,Sneaker,Footwear,1810,StyleZone,pcs,214,2023-04-03
+P026,Rice,Grocery,236,SmartLiving,kg,352,2023-12-30
+P027,Rice,Grocery,103,QuickStep,pcs,419,2023-03-17
+P028,Sugar,Grocery,243,FreshEase,pair,252,2023-05-29
+P029,Sugar,Grocery,205,QuickStep,pack,460,2023-06-11
+P030,Salt,Grocery,163,DhakaMart,kg,373,2023-10-13
+P031,Salt,Grocery,152,FreshEase,pcs,491,2023-09-26
+P032,Salt,Grocery,130,Dropout Wear,pack,424,2023-06-22
+P033,Oil,Grocery,118,DhakaMart,kg,163,2023-01-24
+P034,Oil,Grocery,183,FreshEase,pair,205,2023-12-16
+P035,Lentils,Grocery,136,StyleZone,kg,143,2023-02-27
+P036,Lentils,Grocery,111,FreshEase,pack,80,2023-02-05
+P037,Lentils,Grocery,130,HomeHub,pack,430,2023-06-04
+P038,Tea,Grocery,119,HomeHub,pack,191,2023-08-29
+P039,Tea,Grocery,71,FreshEase,pcs,210,2023-02-26
+P040,Tea,Grocery,224,QuickStep,pcs,69,2023-07-11
+P041,Flour,Grocery,213,StyleZone,liter,114,2023-12-28
+P042,Flour,Grocery,107,HomeHub,liter,254,2023-05-30
+P043,Soap,Personal Care,292,FreshEase,pack,487,2023-07-26
+P044,Soap,Personal Care,319,Dropout Wear,pack,388,2023-05-19
+P045,Soap,Personal Care,370,DhakaMart,pair,226,2023-11-23
+P046,Shampoo,Personal Care,302,HomeHub,pack,311,2023-10-17
+P047,Shampoo,Personal Care,74,QuickStep,kg,403,2023-05-22
+P048,Toothpaste,Personal Care,95,HomeHub,pair,285,2023-04-19
+P049,Toothpaste,Personal Care,95,SmartLiving,pcs,175,2023-08-08
+P050,Facewash,Personal Care,380,DhakaMart,pack,413,2023-12-23
+P051,Facewash,Personal Care,345,QuickStep,pcs,99,2023-10-07
+P052,Facewash,Personal Care,245,QuickStep,pair,398,2023-07-07
+P053,Lotion,Personal Care,113,SmartLiving,pair,70,2023-02-09
+P054,Lotion,Personal Care,286,Dropout Wear,kg,53,2023-03-08
+P055,Charger,Electronics,513,SmartLiving,pair,167,2023-03-18
+P056,Charger,Electronics,607,QuickStep,pcs,290,2023-09-22
+P057,Charger,Electronics,1381,SmartLiving,kg,75,2023-08-05
+P058,Headphone,Electronics,437,QuickStep,pair,375,2023-06-23
+P059,Headphone,Electronics,1059,HomeHub,kg,213,2023-11-15
+P060,Light,Electronics,1489,Dropout Wear,liter,69,2023-03-08
+P061,Light,Electronics,354,FreshEase,kg,316,2023-08-05
+P062,Light,Electronics,1406,Dropout Wear,pcs,287,2023-09-16
+P063,Extension,Electronics,1276,StyleZone,pack,61,2023-09-09
+P064,Extension,Electronics,1210,SmartLiving,pcs,299,2023-03-10
+P065,Power Bank,Electronics,469,FreshEase,kg,150,2023-06-03
+P066,Power Bank,Electronics,1409,QuickStep,pcs,480,2023-08-31
+P067,Power Bank,Electronics,327,Dropout Wear,pack,212,2023-11-14
+P068,Belt,Accessories,657,QuickStep,liter,182,2023-07-23
+P069,Belt,Accessories,752,StyleZone,pair,347,2023-05-10
+P070,Wallet,Accessories,633,QuickStep,pair,398,2023-02-24
+P071,Wallet,Accessories,849,FreshEase,kg,434,2023-12-15
+P072,Wallet,Accessories,722,DhakaMart,pcs,315,2023-04-17
+P073,Wallet,Accessories,863,QuickStep,liter,64,2023-01-17
+P074,Cap,Accessories,468,QuickStep,pcs,140,2023-01-10
+P075,Cap,Accessories,448,QuickStep,pcs,464,2023-11-18
+P076,Watch,Accessories,752,QuickStep,pack,97,2023-08-12
+P077,Watch,Accessories,330,SmartLiving,pcs,306,2023-06-10
+P078,Mug,Home Essentials,148,DhakaMart,pair,261,2023-09-12
+P079,Mug,Home Essentials,330,Dropout Wear,liter,101,2023-09-09
+P080,Mug,Home Essentials,471,DhakaMart,pair,70,2023-08-25
+P081,Plate,Home Essentials,411,FreshEase,pack,497,2023-08-11
+P082,Plate,Home Essentials,476,QuickStep,kg,277,2023-08-13
+P083,Plate,Home Essentials,200,FreshEase,pcs,150,2023-03-14
+P084,Detergent,Home Essentials,264,FreshEase,pack,468,2023-11-19
+P085,Detergent,Home Essentials,212,FreshEase,pcs,383,2023-06-19
+P086,Detergent,Home Essentials,142,HomeHub,pcs,415,2023-10-15
+P087,Broom,Home Essentials,240,StyleZone,pair,388,2023-07-29
+P088,Broom,Home Essentials,471,StyleZone,kg,217,2023-03-22
+P089,Broom,Home Essentials,128,QuickStep,kg,340,2023-01-14
+P090,Towel,Home Essentials,180,Dropout Wear,pair,91,2023-11-14
+P091,Towel,Home Essentials,417,FreshEase,liter,449,2023-03-20
