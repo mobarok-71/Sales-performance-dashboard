@@ -1,0 +1,16 @@
+CustomerID,CustomerName,Gender,City,Division,ContactNo
+CUST101,Tanvir Ahmed,Male,Dhaka,Dhaka,+8801713356886
+CUST102,Fatema Tuj Zohra,Female,Chittagong,Chittagong,+8801342868828
+CUST103,Rahim Uddin,Male,Sylhet,Sylhet,+8801828728463
+CUST104,Nusrat Jahan,Female,Rajshahi,Rajshahi,+8801783197857
+CUST105,Afsana Yasmin,Female,Khulna,Khulna,+8801789254563
+CUST106,Kamrul Hasan,Male,Barisal,Barisal,+8801914265799
+CUST107,Mahmudul Karim,Male,Rangpur,Rangpur,+8801722575562
+CUST108,Sultana Razia,Female,Mymensingh,Mymensingh,+8801841227216
+CUST109,Ashraful Islam,Male,Comilla,Chittagong,+8801590801586
+CUST110,Sabrina Rahman,Female,Narayanganj,Dhaka,+8801785329037
+CUST111,Tariqul Islam,Male,Gazipur,Dhaka,+8801897226012
+CUST112,Mehedi Hasan,Male,Bogra,Rajshahi,+8801566306997
+CUST113,Jannatul Ferdous,Female,Cox's Bazar,Chittagong,+8801870291817
+CUST114,Nazmul Huda,Male,Jessore,Khulna,+8801547338124
+CUST115,Roksana Akter,Female,Feni,Chittagong,+8801731429110
